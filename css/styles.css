@@ -309,6 +309,7 @@ body {
     .portfolio-item {
         float: left;
         width: 33%;
+        min-height: 455px;
     }
     
     /* Contact */
